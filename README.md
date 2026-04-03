@@ -1,4 +1,5 @@
 # 🏦 Compliance Assistant — RAG Financiero
+🌐 **Demo en vivo:** https://fintech-compliance-rag-123.streamlit.app
 
 Asistente inteligente de regulación bancaria construido con RAG (Retrieval-Augmented Generation). Responde preguntas sobre normativas financieras internacionales citando fuentes específicas.
 
